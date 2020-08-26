@@ -2,6 +2,3 @@ sphinx
 matplotlib
 numpy
 numba
-math
-sys
-pytest
